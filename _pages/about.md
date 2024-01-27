@@ -2,9 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant
-subtitle: <a href='https://perceptionandactivecognitionlab.com/'>Perception and Active Cognition Lab</a>
-subtitle: New York University Abu Dhabi
+subtitle: >
+<p>Research Assistant</p> 
+<p><a href='https://perceptionandactivecognitionlab.com/'>Perception and Active Cognition Lab</a></p> 
+<p>New York University Abu Dhabi</p> 
 
 profile:
   align: right
