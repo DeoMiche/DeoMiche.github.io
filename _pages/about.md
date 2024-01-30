@@ -12,6 +12,8 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: 
+
+
 <!--  more_info: >
 <p>Computationa Research Building, NYUAD campus</p>
 <p>Saadyiat Island</p>
