@@ -8,6 +8,9 @@ subtitle: >
   New York University Abu Dhabi</p> 
 
 profile:
+  bio: Software Engineer | Passionate about coding and technology
+  location: New York City
+  email: johndoe@example.com
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
@@ -22,9 +25,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-# Passionate researcher dedicated to advancing knowledge on human perception and cognition. Skilled in conducting rigorous investigations, analyzing complex data, and communicating findings effectively. 
+Passionate researcher dedicated to advancing knowledge on human perception and cognition. Skilled in conducting rigorous investigations, analyzing complex data, and communicating findings effectively. 
 
-# I'm always seeking opportunities to contribute to challenging research projects and drive meaningful discoveries.
+I'm always seeking opportunities to contribute to challenging research projects and drive meaningful discoveries.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
