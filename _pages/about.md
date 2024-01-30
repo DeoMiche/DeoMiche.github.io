@@ -12,9 +12,9 @@ profile:
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p style="font-size:18px;">Computationa Research Building, NYUAD campus</p>
-    <p style="font-size:18px;">Saadyiat Island</p>
-    <p style="font-size:18px;">Abu Dhabi, United Arab Emirates</p>
+    <p>Computationa Research Building, NYUAD campus</p>
+    <p>Saadyiat Island</p>
+    <p>Abu Dhabi, United Arab Emirates</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
