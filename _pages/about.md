@@ -10,9 +10,9 @@ subtitle: >
 profile:
   align: right
   image: prof_pic.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-  <!-- 
+  image_circular: true # crops the image to make it circular
+<!--  more_info: >
+
     <p>Computationa Research Building, NYUAD campus</p>
     <p>Saadyiat Island</p>
     <p>Abu Dhabi, United Arab Emirates</p>
