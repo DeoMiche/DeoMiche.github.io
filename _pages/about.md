@@ -9,17 +9,18 @@ subtitle: >
 
 profile:
   align: right
-  image: prof_pic2.png
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
+  <!-- 
     <p>Computationa Research Building, NYUAD campus</p>
     <p>Saadyiat Island</p>
     <p>Abu Dhabi, United Arab Emirates</p>
-
-news: false # includes a list of news items
+-->
+news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 Passionate researcher dedicated to advancing knowledge on human perception and cognition. Skilled in conducting rigorous investigations, analyzing complex data, and communicating findings effectively. Seek- ing opportunities to contribute to challenging research projects and drive meaningful discoveries.
