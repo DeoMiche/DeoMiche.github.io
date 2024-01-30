@@ -3,9 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <br>Research Assistant<br> 
+  <p>Research Assistant<br> 
   <a href='https://perceptionandactivecognitionlab.com/'>Perception and Active Cognition Lab</a><br> 
-  New York University Abu Dhabi
+  New York University Abu Dhabi</p>
 
 profile:
   bio: Software Engineer | Passionate about coding and technology
