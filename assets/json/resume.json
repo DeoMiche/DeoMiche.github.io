@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Michele Deodato",
+    "label": "Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "deodato.mic@gmail.com",
+    // "phone": "(912) 123-4567",
+    "url": "deomiche.github.io",
+   // "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "Saadyiat Island",
+      //"postalCode": "CA 94115",
+      "city": "Abu Dhabi",
+      "countryCode": "AE",
+      //"region": "California"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        //"network": "Twitter",
+        //"username": "AlbertEinstein",
+        //"url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
