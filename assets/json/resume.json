@@ -126,14 +126,18 @@
     {
       "name": "Perception",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+    },
+    {
+      "name": "Individual Differences",
+      "icon": "fa-solid fa-tag",
+    },
+        {
+      "name": "Brain Oscillations",
+      "icon": "fa-solid fa-tag",
+    },
+        {
+      "name": "Emotions",
+      "icon": "fa-solid fa-tag",
     }
   ]
 }
