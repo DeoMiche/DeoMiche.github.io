@@ -116,19 +116,19 @@
   "interests": [
     {
       "name": "Perception",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
     {
       "name": "Individual Differences",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
         {
       "name": "Brain Oscillations",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     },
         {
       "name": "Emotions",
-      "icon": "fa-solid fa-tag",
+      "icon": "fa-solid fa-tag"
     }
   ]
 }
