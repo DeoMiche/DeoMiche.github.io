@@ -7,7 +7,7 @@
     "summary": "Italian-born researcher, passionate about perception and brain dynamics.",
     "location": "Abu Dhabi, UAE"
   },
-  "research": [
+  "work": [
     {
       "name": "New York University Abu Dhabi",
       "position": "Research Assistant",
@@ -26,6 +26,15 @@
       "studyType": "Master's Degree",
       "startDate": "1905-01-01",
       "endDate": "1905-01-01"
+    },
+    {
+      "institution": "University of Catania",
+      "location": "Catania, Italy",
+      "url": "https://www.unict.it/en",
+      "area": "Psychology",
+      "studyType": "Bachelor's Degree",
+      "startDate": "1905-01-01",
+      "endDate": "1905-01-01"
     }
   ],
   "certificates": [
@@ -35,41 +44,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
