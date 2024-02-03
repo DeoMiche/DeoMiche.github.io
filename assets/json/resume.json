@@ -64,14 +64,35 @@
   ],
   "skills": [
     {
+      "name": "Coding",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MATLAB",
+        "Python",
+        "JavaScript",
+        "HTML"
+      ]
+    },
+    {
       "name": "Web-based Experiments",
       "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
         "jsPsych",
         "Pavlovia",
-        "Prolific",
-        "HTML"
+        "Prolific"
+      ]
+    },
+    {
+      "name": "Data Analysis",
+      "level": "Advanced",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "MEG/EEG",
+        "Eye-movements",
+        "Pupillometry",
+        "Psychophysiscs"
       ]
     }
   ],
@@ -94,7 +115,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Perception",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Quantum Mechanics",
