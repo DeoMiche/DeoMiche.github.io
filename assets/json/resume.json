@@ -19,6 +19,15 @@
   ],
   "education": [
     {
+      "institution": "University of Geneva",
+      "location": "Geneva, Switzerland",
+      "url": "https://www.unige.ch/en/",
+      "area": "Cognitive Neuroscience",
+      "studyType": "Erasmus Exchange",
+      "startDate": "2019-02-01",
+      "endDate": "2019-07-01"
+    },    
+    {
       "institution": "University of Turin",
       "location": "Turin, Italy",
       "url": "https://en.unito.it/",
