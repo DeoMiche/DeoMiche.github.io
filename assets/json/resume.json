@@ -66,7 +66,7 @@
     {
       "name": "Coding",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-code",
       "keywords": [
         "MATLAB",
         "Python",
@@ -77,7 +77,7 @@
     {
       "name": "Web-based Experiments",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-earth-americas",
       "keywords": [
         "jsPsych",
         "Pavlovia",
@@ -87,7 +87,7 @@
     {
       "name": "Data Analysis",
       "level": "Advanced",
-      "icon": "fa-solid fa-hashtag",
+      "icon": "fa-solid fa-clipboard-check",
       "keywords": [
         "MEG/EEG",
         "Eye-movements",
@@ -100,17 +100,17 @@
     {
       "language": "Italian",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     },
     {
       "language": "French",
       "fluency": "Basic",
-      "icon": ""
+      "icon": "fa-solid fa-comments"
     }
   ],
   "interests": [
