@@ -19,15 +19,13 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
+      "institution": "University of Turin",
+      "location": "Turin, Italy",
+      "url": "https://en.unito.it/",
+      "area": "Cognitive Neuroscience",
+      "studyType": "Master's Degree",
       "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "endDate": "1905-01-01"
     }
   ],
   "certificates": [
