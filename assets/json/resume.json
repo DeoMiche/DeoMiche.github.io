@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Michele Deodato",
     "label": "Scientist",
     "image": "",
     "email": "albert@einstein.de",
     "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "url": "https://deomiche.github.io/",
+    "summary": "Italian-born researcher, passionate about perception and brain dynamics.",
     "location": "Abu Dhabi, UAE"
   },
   "work": [
@@ -117,13 +117,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Italian",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Basic",
       "icon": ""
     }
   ],
