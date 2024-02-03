@@ -12,7 +12,7 @@
       "name": "New York University Abu Dhabi",
       "position": "Research Assistant",
       "url": "https://perceptionandactivecognitionlab.com/",
-      "startDate": "2020-01-01",
+      "startDate": "2020-09-01",
       "endDate": "2024-01-01",
       "summary": "Conceptualization and communication of scientific experiments. EEG, Eye-tracking and behavioural data analyses. Implementation of psychophysics methods and webbased experiments."
     }
@@ -39,10 +39,17 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Linear Algebra for Neuroscientists",
+      "date": "2019-07-01",
+      "issuer": "Radboud University",
+      "url": "",
+      "icon": "fa-solid fa-location-dot"
+    },
+    {
+      "name": "Advanced MEG/EEG toolkit",
+      "date": "2022-05-01",
+      "issuer": "Donders Institute",
+      "url": "https://www.fieldtriptoolbox.org/workshop/toolkit2023/",
       "icon": "fa-solid fa-location-dot"
     }
   ],
@@ -57,16 +64,14 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Web-based Experiments",
+      "level": "Advanced",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "jsPsych",
+        "Pavlovia",
+        "Prolific",
+        "HTML",
       ]
     }
   ],
