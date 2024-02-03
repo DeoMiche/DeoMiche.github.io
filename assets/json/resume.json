@@ -55,20 +55,11 @@
       "icon": "fa-solid fa-clipboard-check"
     },
     {
-      "name": "Advanced MEG/EEG toolkit",
+      "name": "Advanced MEG/EEG Toolkit",
       "date": "2022-05-01",
       "issuer": "Donders Institute",
       "url": "https://www.fieldtriptoolbox.org/workshop/toolkit2023/",
       "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
     }
   ],
   "skills": [
